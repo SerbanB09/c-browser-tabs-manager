@@ -1,0 +1,6 @@
+# Compiled files
+*.o
+browser
+
+# Output files
+browser.out
