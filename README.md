@@ -2,8 +2,6 @@
 
 A simplified browser tabs manager written in C that simulates core browser functionality: opening and closing tabs, navigating between tabs, and managing page history using stacks.
 
-Developed as a university assignment focused on data structures, memory management, and clean modular design in C.
-
 ---
 
 ## Features
